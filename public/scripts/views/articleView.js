@@ -1,6 +1,7 @@
 'use strict';
 
 (function(module) {
+  console.log('anything, really');
   const articleView = {};
 
   articleView.populateFilters = function() {
